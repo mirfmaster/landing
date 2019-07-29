@@ -1,0 +1,24 @@
+.mt-12{
+    margin-top: 12px;
+}
+
+.logo{
+    float: left;
+    width: 85px;
+    height: 70px;
+    margin-left:10%;
+}
+
+.blank-space{
+    min-height: 700px
+}
+
+.sponsor{
+    margin-bottom: 3%
+}
+
+.gray-space{
+    min-height: 300px;
+    background: lightgrey;
+    margin-bottom: 10%
+}
